@@ -34,4 +34,4 @@ SSHSpace — это современный SSH/SFTP клиент с минима
 
 ---
 
-**Разработчик / Developer:** after (https://github.com/after)
+**Разработчик / Developer:** KLIPEBOY (https://github.com/KLIPEBOY)
