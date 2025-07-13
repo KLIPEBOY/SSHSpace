@@ -13,9 +13,9 @@ SSHSpace — это современный SSH/SFTP клиент с минима
 - Адаптивный интерфейс для десктопа и мобильных
 
 ### Скриншоты
-- ![screenshot1](https://github.com/after/sshspace/screenshots/screen1.png)
-- ![screenshot2](https://github.com/after/sshspace/screenshots/screen2.png)
-- ![screenshot3](https://github.com/after/sshspace/screenshots/screen3.png)
+- ![screenshot1](https://i.yapx.ru/Z3iH6.png)
+- ![screenshot2](https://i.yapx.ru/Z3iJT.png)
+- ![screenshot3](https://i.yapx.ru/Z3iJe.png)
 
 ---
 
@@ -28,9 +28,9 @@ SSHSpace — это современный SSH/SFTP клиент с минима
 - Responsive design for desktop and mobile
 
 ### Screenshots
-- ![screenshot1](https://github.com/after/sshspace/screenshots/screen1.png)
-- ![screenshot2](https://github.com/after/sshspace/screenshots/screen2.png)
-- ![screenshot3](https://github.com/after/sshspace/screenshots/screen3.png)
+- ![screenshot1](https://i.yapx.ru/Z3iH6.png)
+- ![screenshot2](https://i.yapx.ru/Z3iJT.png)
+- ![screenshot3](https://i.yapx.ru/Z3iJe.png)
 
 ---
 
